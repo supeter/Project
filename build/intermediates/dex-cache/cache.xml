@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-f4561bb7c642c4f5c3d6753ec6aec18450067aa4.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-c1138b017581734b5b9811365b65c4ba253eacc3.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-74267720c9d3635d686264105ed76ddf22cb99b0.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-f6ee0006e8b15787a41b86afd58d88860a292893.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-be6333909cb1bb2bae7b271ccbeb6bc83b56dfd4.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-8fd67049eb7593725ff31342b1c4ad3da477bd35.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-701794f8331f140ccd62a63c034540522c7d0585.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-3169b187c7e0959b979a081b94f07dd791a6a03f.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-9dc08ad282160562bde0e96facf8b9369c145746.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-93a9286bc9997e3cb07f4bb5ea5bbeb02ee120ed.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-ae5aa37ebe5626efab50b66f6516f7a031111dff.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-b2e3562fef7f869ba1e8361ee226423e009f061f.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-96a74b58431700982c90d391498a33817851b6fb.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-72d92eabf08790695dc137b84821d9bb940012d9.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-a973ab8d028a63f6575b4f78483a229d91f8b260.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-cbf411a91817c6260dde3259014c59b8bd1c535b.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-dba36750bf4de2f14a1871f60939c9320777d906.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-16a8f7a44b9cb1974e605006bc02331f6e50e07d.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-474aec127de6cfeb9c4752ebf6a661143b306591.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-d5964a4f92c62a640c04ed7822d57b39b49e0263.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-414799012f3024cac048841d3d4eceba7fc3d5ff.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-ddcfa140492d52f2d28ea62079355f07d488fc36.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-bb6f77e6e7b2393edd770d3d3175ba593258904c.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-bc6fef22d1c53a5c361ca7a89a6be8c154a88f78.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-c3be89ea6b5ba5bb724c6a0bd88d2befc6b03c03.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-0bd83885e4e09a2a93b3868202da8425491d9493.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-9409b72532c6ae239e1c7c93de0c8b296237b14e.jar" />
+    </item>
+    <item
+        jar="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/Nicole/Documents/Monograph/Project/app/build/intermediates/pre-dexed/debug/classes-ca4616d12a1bd0c06b6070bf0d4354f1f5e0bb8e.jar" />
+    </item>
+
+</items>

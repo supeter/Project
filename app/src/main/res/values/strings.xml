@@ -1,0 +1,12 @@
+<resources>
+    <string name="title_current_location">目前位置</string>
+    <string name="message_current_location">是否儲存目前位置?</string>
+
+    <string name="google_play_service_missing">裝置沒有安裝Google Play服務</string>
+    <string name="app_name">Monograph</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="endlocationnull">The end location is null!!</string>
+    <string name="startlocationnull">The start location is null!!</string>
+
+    <string name="LOG_TAG">ExampleApp</string>
+</resources>
